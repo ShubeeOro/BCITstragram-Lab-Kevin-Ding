@@ -1,2 +1,1 @@
-I tried doing typescript
-I failed :(
+I tried doing typescript but I couldn't right now :(
